@@ -15,18 +15,7 @@ I work across the full product lifecycle, including AI integration, frontend, ba
 
 ## Core Skills
 
-- AI Development
-- Full-Stack Development
-- Backend Architecture
-- Frontend Development
-- Database Design
-- API Integration
-- Automation
-- AI Agents and LLM Integration
-- Workflow Design
-- UI/UX Product Thinking
-- Product Architecture
-- Docker and Deployment
+AI Development • Full-Stack Development • Product Architecture • Backend • Frontend • Databases • APIs • Automation • AI Agents • Workflow Design • UI/UX • Docker • Deployment
 
 ## Current Focus
 
