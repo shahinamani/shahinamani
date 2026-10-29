@@ -1,46 +1,47 @@
-# Shahin Amani
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="Shahin Amani — AI Developer and Product Builder. Building intelligent software products, scalable platforms and operational systems for real-world business challenges. Focus areas: AI systems, full-stack, product architecture, FinTech and trading, automation, security and monitoring.">
+</p>
 
-AI Developer and Full-Stack Product Builder focused on building real-world products from idea to deployment.
+<br>
 
-I work across the full product lifecycle, including AI integration, frontend, backend, databases, automation, workflow design, UI/UX, and product architecture.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/about-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/about-light.svg">
+  <img src="assets/about-dark.svg" width="100%" alt="About me: Software developer and product builder with a focus on AI-driven systems, full-stack development, fintech, automation and enterprise technology. I design and build real-world platforms from idea to deployment, combining technology, business understanding and operational experience. Core expertise: AI agents and automation, full-stack development, systems architecture, enterprise software, FinTech and trading systems, risk management systems, security and monitoring, technical operations.">
+</picture>
 
-## What I Build
+<br><br>
 
-- AI-powered platforms and intelligent systems
-- Full-stack web applications
-- FinTech and Trading platforms
-- Automation and operational systems
-- Security and monitoring platforms
-- Internal tools and business command centers
+<a href="https://github.com/shahinamani?tab=repositories">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/projects-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/projects-light.svg">
+    <img src="assets/projects-dark.svg" width="100%" alt="Featured projects. Executive Operations Command Center: a centralized platform for managing corporate operations, including legal, personnel, payments, contracts, company records and operational workflows. AI Security and Monitoring Platform: an intelligent platform designed to detect suspicious behavior, analyze risk, monitor infrastructure and support security operations. Trading AI Command Center: a unified platform for trading intelligence, market monitoring, portfolio visibility, risk analysis and AI-assisted decision support. All three are private repositories.">
+  </picture>
+</a>
 
-## Core Skills
+<br><br>
 
-AI Development • Full-Stack Development • Product Architecture • Backend • Frontend • Databases • APIs • Automation • AI Agents • Workflow Design • UI/UX • Docker • Deployment
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg">
+  <img src="assets/stack-dark.svg" width="100%" alt="Technology stack. Languages: Python, JavaScript, TypeScript. Data and infrastructure: PostgreSQL, Docker. AI and integration: LLMs, AI agents, APIs, automation, workflow design.">
+</picture>
 
-## Current Focus
+<br><br>
 
-I am currently building products across:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img src="assets/stats-dark.svg" width="100%" alt="GitHub statistics: 2,627 contributions and 80 active days in the last 12 months, including private work. 13 repositories. On GitHub since 2023.">
+</picture>
 
-- AI and intelligent automation
-- FinTech and Trading
-- Cybersecurity and monitoring
-- Business operations and internal platforms
+<br><br>
 
-## Featured Projects
-
-### Executive Operations Command Center
-A centralized platform for managing corporate operations, including legal, personnel, payments, contracts, company records, and operational workflows.
-
-### AI Security & Monitoring Platform
-An intelligent security and monitoring platform designed to detect suspicious behavior, analyze risk, monitor infrastructure, and support security operations.
-
-### Trading AI Command Center
-A unified platform for trading intelligence, market monitoring, portfolio visibility, risk analysis, and AI-assisted decision support.
-
-## Tech
-
-Python • JavaScript • APIs • PostgreSQL • Docker • AI Agents • LLMs • Automation • Full-Stack Development
-
----
-
-Building products from idea → architecture → development → deployment.
+<a href="https://github.com/shahinamani">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/connect-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/connect-light.svg">
+    <img src="assets/connect-dark.svg" width="100%" alt="Connect: github.com/shahinamani — Istanbul, Türkiye.">
+  </picture>
+</a>
